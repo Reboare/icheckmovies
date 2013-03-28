@@ -16,6 +16,6 @@ via_url = icm.get_movie("Fight Club")
 ```
 
 ##Dependencies
--requests (hopefully transition to urllib2 at some point to reduce dependencies)
+[Requests](http://docs.python-requests.org/en/latest/)
 
--BeautifulSoup4
+[Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/)
